@@ -74,6 +74,6 @@
     bottom: 0;
     margin-left: -150px;
 }
-.btn-cart :hover{
+.btn-cart:hover{
     background: orange;
 }
